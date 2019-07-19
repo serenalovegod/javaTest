@@ -30,4 +30,7 @@ public class OutHotelTest {
 		assertEquals("701ÍË·¿³É¹¦£¡",oh.out(701));
 	}
 }
+class person{
+	
+}
 
